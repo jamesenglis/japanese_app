@@ -1,0 +1,13 @@
+# Ignore Python cache and environment files
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store
+.venv/
+
+# Ignore data or temp folders
+*.sqlite3
+/models_data/
+/tmp/
+
+
